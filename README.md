@@ -23,9 +23,10 @@ Financial systems process thousands of transactions, making it difficult to manu
 ## Project Structure
 
 ```
+|-- fraud-detection-risk-agent.pptx
 ├── app.py                         # Live interactive demo (Streamlit)
 ├── fraud_detection_notebook.ipynb # Full pipeline as a Jupyter/Colab notebook
-├── transactions_data.csv          # 10,000-row training dataset
+├── transactions_data.csv         # 10,000-row training dataset
 ├── train_fraud_model.py           # Same pipeline as a plain .py script
 ├── fraud_detection_model.pkl      # Trained model (classifier + anomaly detector + encoder)
 ├── fraud_detection_results.csv    # Scored output for all 10,000 transactions
