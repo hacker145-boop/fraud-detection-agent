@@ -2,7 +2,7 @@
 
 An AI-powered system that analyzes financial transactions and identifies potentially fraudulent activity, built for the HackForge FinTech Codeathon challenge.
 
-**🔗 Live demo:** _add your Streamlit Community Cloud link here after deploying (see instructions below)_
+**🔗 Live demo: https://fraud-detection-agent-codethon.streamlit.app/
 
 ## Problem
 
